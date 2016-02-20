@@ -39,3 +39,6 @@
 	path = bundle/gutentags
 	url = https://github.com/ludovicchabant/vim-gutentags.git
 	ignore = dirty
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
