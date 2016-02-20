@@ -25,3 +25,6 @@
 [submodule "bundle/endwise"]
 	path = bundle/endwise
 	url = https://github.com/tpope/vim-endwise.git
+[submodule "bundle/autoformat"]
+	path = bundle/autoformat
+	url = https://github.com/Chiel92/vim-autoformat.git
